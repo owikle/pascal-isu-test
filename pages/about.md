@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="pascal_023" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+{% include feature/nav-menu.html sections="About Pascal;About the Collection" %}
 
-## About CollectionBuilder CSV
+## About Pascal
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Descartes Pascal (1870-1937) was a photographer, farmer, and pioneer seed corn breeder.
+Pascal was born in De Witt, Clinton County, Iowa, where he raised corn, shorthorn cattle, and Berkshire hogs.
+Pascal became interested in corn breeding after 1900 and developed the Grand Champion ear of pure bred Reid's Yellow Dent corn in 1907.
+He also wrote and published articles on corn breeding; spoke at colleges, farmers' institutes, and chautauquas; judged corn breeding contests in Iowa; and served as secretary to the Iowa Corn Growers Association.
+Pascal was also a practicing photographer.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## About the Collection
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The collection (1890-1937, undated) includes a scrapbook of newspaper clippings, pamphlets, and memorabilia related to Pascal's achievements in corn breeding, and corn breeding in Iowa generally.
+Also included are 180 glass plate negatives and two tintypes made by Pascal, documenting rural Iowa from the 1890s through the 1910s.
+Included are family portraits (interior and exterior), family groups, school children, men and women with guns, acrobats, tight rope walkers, several people reenacting a duel, windmills, haystacks, barns, livestock, farmhouses, fields, small town streets, and construction of a school
+ Use copies are available in box 19.
+The 1907 Reid's Yellow Dent ear of corn, along with its display case, is included.
