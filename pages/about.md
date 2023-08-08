@@ -27,3 +27,5 @@ Also included are 180 glass plate negatives and two tintypes made by Pascal, doc
 Included are family portraits (interior and exterior), family groups, school children, men and women with guns, acrobats, tight rope walkers, several people reenacting a duel, windmills, haystacks, barns, livestock, farmhouses, fields, small town streets, and construction of a school
  Use copies are available in box 19.
 The 1907 Reid's Yellow Dent ear of corn, along with its display case, is included.
+
+**Finding Aid**: <https://findingaids.lib.iastate.edu/spcl/manuscripts/MS091.html>

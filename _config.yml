@@ -23,7 +23,7 @@ title: Descartes Pascal
 tagline: Historic images of rural Iowa
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The collection includes 180 glass plate negatives and two tintypes made by Pascal, documenting rural Iowa from the 1890s through the 1910s. Included are family portraits (interior and exterior), family groups, school children, men and women with guns, acrobats, tight rope walkers, several people reenacting a duel, windmills, haystacks, barns, livestock, farmhouses, fields, small town streets, and construction of a school."
+description: "The collection includes a subset of 180 glass plate negatives and two tintypes made by Pascal, documenting rural Iowa from the 1890s through the 1910s. Included are family portraits (interior and exterior), family groups, school children, men and women with guns, acrobats, tight rope walkers, several people reenacting a duel, windmills, haystacks, barns, livestock, farmhouses, fields, small town streets, and construction of a school."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: iowa;history;agriculture
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -50,10 +50,10 @@ metadata: pascal
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Iowa State University Digital Collections"
+organization-link: https://digitalcollections.lib.iastate.edu/
+organization-logo-banner: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/ISU_secondary_red.png
+organization-logo-nav: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/DClogo3.gif
 
 ##########
 # GOOGLE SERVICES [optional!]
